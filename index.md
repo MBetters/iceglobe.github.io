@@ -80,7 +80,7 @@ Finally, probobly the most important on the list, the Mages. They may not be the
 Mayna and Ezra,
 HitBox- M- Small E- Large,
 Passive Ability- Soul Link. When staring at a teammate, press the alternate use button and she will teleport to them if close enough.
-Channeling Ability- M- Rejuvinating Orb. E- Sould Strike. M- Mayna throws healing orbs at teammates, healing 20 per orb. consumes 20 mana each.
+Channeling Ability- M- Rejuvinating Orb. E- Soul Strike. M- Mayna throws healing orbs at teammates, healing 20 per orb. consumes 20 mana each.
 E- Ezra Spits a blue essence that damages enemies or heals allies depending on who it hits. consumes 20 mana a second and deals/heals 20 health a second.
 Summoning Ability- Aerial Within. Mayna turns into a dragon and heals teammates around her. Her channeling ability also changes. Consumes 80 mana and lasts 30 seconds.
               
