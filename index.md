@@ -5,7 +5,7 @@
   Coding Developer- Sir Boos Alot
   Modeling and Animation Developer- RaptorMaster
   Weapon Design Developer- Sir Dies Alot
-  PlayTesters- SpawnRusher, DoctorSizzle, Ozomaly.
+  PlayTesters- SpawnRusher, DoctorSizzle, Ozomaly, Jdog.
 
 
 # NonTerra
