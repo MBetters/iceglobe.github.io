@@ -35,9 +35,9 @@ Summoning Ability- Recall Point. Ashe sets a point that she can teleport to when
  
  
  
-Phazer,
+Phazer
 
-HitBox- Medium,
+HitBox- Medium
 
 Passive Ability- Swift. Anyone on Phazer's team gains a 10 percent speed bonus when next to him in a 25 meter radius. If he is knoocked out, this radius increases to 50 and the speed multiplier increased to 25 percent.
 
@@ -47,9 +47,9 @@ Summoning Ability- Slow Down. Freezes any enemies infront of him for 6 seconds. 
 
 
                   
-Sentinel,
+Sentinel
 
-HitBox- Medium,
+HitBox- Medium
 
 Passive Ability- Titanium Plating. Has a 10 percent chance to negate any damage done to him upon hitting him.
 
@@ -64,9 +64,9 @@ Then there are the Berserkers. Berserkers are the strongest of all the classes a
 
  
  
-Legs,
+Legs
 
-HitBox- Large,
+HitBox- Large
 
 Passive Ability- Winged. Legs is able to jump high and farther than any characters. He doesnt lose any accuracy while in use and can float for 5 seconds.
 
@@ -76,9 +76,9 @@ Summoning Ability- Shadow Walker. Legs tears the unseen barrier between demensio
 
 
 
-Predator,
+Predator
 
-HitBox- Medium,
+HitBox- Medium
 
 Passive Ability- Soul Harvester. Upon killing an enemy, Predator's abilities and stats are boosted. Up to 5 times.
 
@@ -88,9 +88,9 @@ Summoning Ability- Living Fear. Predator becomes unkillable for 20 seconds. take
         
         
         
-The Thing,
+The Thing
 
-HitBox- Medium,
+HitBox- Medium
 
 Passive Ability- Undead. When knocked out, he is still able to attack without weapons until revived.
 
@@ -105,9 +105,9 @@ Then there is the Heavies. They are tanky and slow but gain a buff to hammers an
   
   
   
-Robee and BOMBboyage,
+Robee and BOMBboyage
 
-HitBox- R- small B- Large,
+HitBox- R- small B- Large
 
 Passive Ability- Suicide Bomber. When Robee is knocked out, his backpack explodes dealing 50 damage to nearby enemies.
 
@@ -117,9 +117,9 @@ Summoning Ability- BOMBboyage. Robee summones his buddy BOMB. He climbs inside o
 
 
 
-Guardian,
+Guardian
 
-HitBox- Large,
+HitBox- Large
 
 PasssiveAbility- JumpKit. Guardian has a jetpack that consumes 10 mana a second but boosts his height.
 
@@ -128,9 +128,9 @@ Channeling Ability- Bunker Builder. Guardian is able to build small walls in any
 Summoning Ability- Fortress. Guardian smashes the ground and a massive fortress spawns around him (if enough room). Consumes 80 Mana and takes 180 seconds to charge.
 
         
-Josh,
+Josh
 
-HitBox- Medium,
+HitBox- Medium
 
 Passive Ability- Stay Strong. Josh takes reduced damage the lower health he is and is not effected by fire or stuns.
 
@@ -145,9 +145,9 @@ Finally, probobly the most important on the list, the Mages. They may not be the
 
 
         
-Mayna and Ezra,
+Mayna and Ezra
 
-HitBox- M- Small E- Large,
+HitBox- M- Small E- Large
 
 Passive Ability- Soul Link. When staring at a teammate, press the alternate use button and she will teleport to them if close enough.
 
@@ -159,9 +159,9 @@ Summoning Ability- Aerial Within. Mayna turns into a dragon and heals teammates 
 
 
 
-Connor,
+Connor
 
-HitBox- Medium,
+HitBox- Medium
 
 Passive Ability- Mana Catalyst.
 
@@ -173,9 +173,9 @@ Summoning Ability- Self Destruct. Connor begins a self destruct sequence that la
  
  
  
-TreeGurt,
+TreeGurt
 
-HitBox- Medium (gets larger when using ult),
+HitBox- Medium (gets larger when using ult)
 
 Passive Ability- Camouflage. TreeGurt when standing still for 2 seconds, he becomes a tree and becomes a Healing Totem. The Healing Totem will have a small radius of 30 meters. Any teammate within this radius gains a 3 times healing bonus. Doesnt consume any mana unless TreeGurt uses his channeling ability during this which boosts the healing entirly.
 
