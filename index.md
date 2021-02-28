@@ -1,52 +1,37 @@
 # IceGlobe Studios
 
-  Official Discord- https://discord.gg/XFgMgnrHFj
-  Official YouTube Channel- https://www.youtube.com/channel/UCLokQeIp7YYATabzQcdM64w
-  Coding Developer- Sir Boos Alot
-  Modeling and Animation Developer- RaptorMaster
-  Weapon Design Developer- Sir Dies Alot
-  PlayTesters- SpawnRusher, DoctorSizzle, Ozomaly, Jdog.
-
+- **Official Discord**- https://discord.gg/XFgMgnrHFj
+- **Official YouTube Channel**- https://www.youtube.com/channel/UCLokQeIp7YYATabzQcdM64w
+- **Coding Developer**- Sir Boos Alot
+- **Modeling and Animation Developer**- RaptorMaster
+- **Weapon Design Developer**- Sir Dies Alot
+- **PlayTesters**- SpawnRusher, DoctorSizzle, Ozomaly, Jdog.
 
 # NonTerra
 
   NonTerra is an upcoming game developed by IceGlobe Studios and made using Blender and Ogre.
     It is an online, Battle Royal style game with TDM event gamemodes, quick matches, teams of up to 5, and tons of weapons to be designed.
     At the Start of the game, everyone picks a character very much similar to Apex Legends and League of Legends... maybe we should have the word "legends" in our game title?
-    There are 4 classes, all of which are equally as vital to the team. 
- 
- 
- 
-# classes
+    There are 4 classes, all of which are equally as vital to the team.
+
+## classes
 
 First there are RANGERS. Rangers have balanced stats and meant for sniping battles and fighting enemy mounts. They gain a boost with snipers and bows.
 
+## Ashe
 
+- **Hitbox**- Small
+- **Passive Aility**- Last Chance. when the last player alive on the team, she gains 25 percent added movement speed and 10 percent extra armor to protect her.
+- **Channeling Ability**- Blink. Ashe teleports wherever the player wants a short distance. consumes 25 mana
+- **Summoning Ability**- Recall Point. Ashe sets a point that she can teleport to whenever she wants. It will disapear after 30 seconds. Consumes 30 mana and takes 60 seconds to recharge.
 
-Ashe
+## Phazer
 
-Hitbox- Small
+- **HitBox**- Medium
+- **Passive Ability**- Swift. Anyone on Phazer's team gains a 10 percent speed bonus when next to him in a 25 meter radius. If he is knoocked out, this radius increases to 50 and the speed multiplier increased to 25 percent.
+- **Channeling Ability**- Speed Up. Phazer's speed is increased by 50 percent. Cnsumes 20 mana a second.
+- **Summoning Ability**- Slow Down. Freezes any enemies infront of him for 6 seconds. Cosumes 60 mana and takes 80 seconds to recharge.
 
-Passive Aility- Last Chance. when the last player alive on the team, she gains 25 percent added movement speed and 10 percent extra armor to protect her.
-
-Channeling Ability- Blink. Ashe teleports wherever the player wants a short distance. consumes 25 mana
-
-Summoning Ability- Recall Point. Ashe sets a point that she can teleport to whenever she wants. It will disapear after 30 seconds. Consumes 30 mana and takes 60 seconds to recharge.
- 
- 
- 
-Phazer
-
-HitBox- Medium
-
-Passive Ability- Swift. Anyone on Phazer's team gains a 10 percent speed bonus when next to him in a 25 meter radius. If he is knoocked out, this radius increases to 50 and the speed multiplier increased to 25 percent.
-
-Channeling Ability- Speed Up. Phazer's speed is increased by 50 percent. Cnsumes 20 mana a second.
-
-Summoning Ability- Slow Down. Freezes any enemies infront of him for 6 seconds. Cosumes 60 mana and takes 80 seconds to recharge.
-
-
-                  
 Sentinel
 
 HitBox- Medium
