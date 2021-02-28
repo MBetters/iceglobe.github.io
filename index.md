@@ -17,7 +17,7 @@
  
  
  
-#classes
+# classes
 
 First there are RANGERS. Rangers have balanced stats and meant for sniping battles and fighting enemy mounts. They gain a boost with snipers and bows.
 
@@ -68,11 +68,11 @@ Legs
 
 HitBox- Large
 
-Passive Ability- Winged. Legs is able to jump high and farther than any characters. He doesnt lose any accuracy while in use and can float for 5 seconds.
+Passive Ability- Winged. Legs is able to jump high and farther than any other character. He doesnt lose any accuracy while in the air and can float for 5 seconds.
 
-Channeling Ability- Invisibility. Legs shifts where his physical body is and switches to his void body rendering him unseen by the nake eye. Consumes 20 ana a second.
+Channeling Ability- Invisibility. Legs goes almost entirely invisible. This effect is gone as soon as he attacks. Consumes 20 mana a second.
 
-Summoning Ability- Shadow Walker. Legs tears the unseen barrier between demensions and jumps in. he goes invisible once entered and leaves behind his soul which copies his actions. He is able Attack during this ability and its hard to find him when 80 percent invisible. Takes 120 seconds to charge and consumes 80 mana.
+Summoning Ability- Shadow Walker. Legs tears the barrier between demensions and jumps in. He goes invisible once entered and leaves behind his soul which copies his actions. He is able Attack during this ability and its hard to find him when 80 percent invisible. Takes 120 seconds to charge and consumes 80 mana.
 
 
 
@@ -94,7 +94,7 @@ HitBox- Medium
 
 Passive Ability- Undead. When knocked out, he is still able to attack without weapons until revived.
 
-Channeling ability- Vampiric Blood. Thing's arms opens up and a stream of blood from an nearby enemies is collected. this damages them for 10 damage a second and heals him for 10 health a second. Unable to attack during this time. Consumes 10 mana a second.
+Channeling ability- Vampiric Blood. Thing's arms opens up and a stream of blood from any nearby enemies is collected. this damages them for 10 damage a second and heals him for 10 health a second. Unable to attack during this time. Consumes 10 mana a second.
 
 Summoning Ability- Storm Caller. The Thing shreaks for 3 seconds. Then a dome is wrapped around him. inside the dome, players and him are invincable to the storm. The storm itself will now be commanded by him and target any enemies around him ignoring his teammates. Consumes 25 mana a second.
    
@@ -182,4 +182,41 @@ Passive Ability- Camouflage. TreeGurt when standing still for 2 seconds, he beco
 Channeling Ability- Stitching Ivy. Any teammates within 25 meters of him (75 when in Healing Totem form), gains 2 times healing and any damage they took will heal itself if the player goes 3 seconds without taking damage. During this time TreeGurt takes 25 percent reduced damage. Consumes 20 mana a second.
 
 Summoning Ability- Elder Tree. TreeGurt Grows slightly larger. Can be used after a kill. This boosts his health pool, mana, mana regen, stamina, and stamina regen. Consumes 40 mana on use.
-        
+
+
+
+
+
+
+
+
+
+
+
+# Gameplay
+
+The game plays out like most battle royals except with a few twists to it...
+The player has a large equipment set. A primary weapon, a secondary weapon, a sidearm, a rune, a ability, a sidekick, and an armor set.
+Weapons and sidekicks can be modified in the main menu with several different mods that change your playstyle entirely.
+Armor sets arnt like apex legends or fortnite. They are all different by the same rarity. Some will reduce ability damage, some will add mod health, etc.
+The “storm” is unlike any other battle royal hat you have seen (I hope). It moves in like most BRs but instead of dealing damage a second, it spawns hive minded creatures that will beat the player to death quickly if they are inside of the ring.
+The abilities that I mentioned earlier, yes there is more. You have 1 extra ability in your abilities slot. It spawns empty but you can find abilities on the ground like “phase rush” that allows you to sprint through walls.
+Now what is a “rune” you may ask??? Well to put it simply, it’s a passive ability that you can find on the ground like weapons and armor. These passive abilities can be way more powerful than the one you get with your character.
+
+
+
+
+
+
+
+
+
+
+
+
+# sidekicks
+
+As mentioned before and not explained very well, the sidekicks... what are the sidekicks? Well first let’s get into gaming foods.
+Takin foods are found on the ground. When you collect taking foods you can feed it to a wild monster. If it likes it enough it will join your fire team.
+SideKicks sit on your shoulder or run around on the ground and help your team and yourself. We will explain and update these later on.
+    
