@@ -29,7 +29,7 @@ First there are **RANGERS**. Rangers have balanced stats and meant for sniping b
 - **Channeling Ability**- Speed Up. Phazer's speed is increased by 50 percent. Cnsumes 20 mana a second.
 - **Summoning Ability**- Slow Down. Freezes any enemies infront of him for 6 seconds. Cosumes 60 mana and takes 80 seconds to recharge.
 
-Sentinel
+## Sentinel
 
 HitBox- Medium
 
@@ -181,7 +181,7 @@ The game plays out like most battle royals except with a few twists to it...
 The player has a large equipment set. A primary weapon, a secondary weapon, a sidearm, a rune, a ability, a sidekick, and an armor set.
 Weapons and sidekicks can be modified in the main menu with several different mods that change your playstyle entirely.
 Armor sets arnt like apex legends or fortnite. They are all different by the same rarity. Some will reduce ability damage, some will add mod health, etc.
-The “storm” is unlike any other battle royal hat you have seen (I hope). It moves in like most BRs but instead of dealing damage a second, it spawns hive minded creatures that will beat the player to death quickly if they are inside of the ring.
+The “storm” is unlike any other battle royal that have you have seen (I hope). It moves in like most BRs but instead of dealing damage a second, it spawns hive minded creatures that will beat the player to death quickly if they are inside of the ring.
 The abilities that I mentioned earlier, yes there is more. You have 1 extra ability in your abilities slot. It spawns empty but you can find abilities on the ground like “phase rush” that allows you to sprint through walls.
 Now what is a “rune” you may ask??? Well to put it simply, it’s a passive ability that you can find on the ground like weapons and armor. These passive abilities can be way more powerful than the one you get with your character.
 
