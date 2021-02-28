@@ -1,7 +1,7 @@
 # IceGlobe Studios
 
-- **Official Discord**- https://discord.gg/XFgMgnrHFj
-- **Official YouTube Channel**- https://www.youtube.com/channel/UCLokQeIp7YYATabzQcdM64w
+- [Official Discord](https://discord.gg/XFgMgnrHFj)
+- [Official YouTube Channel](https://www.youtube.com/channel/UCLokQeIp7YYATabzQcdM64w)
 - **Coding Developer**- Sir Boos Alot
 - **Modeling and Animation Developer**- RaptorMaster
 - **Weapon Design Developer**- Sir Dies Alot
@@ -9,14 +9,11 @@
 
 # NonTerra
 
-  NonTerra is an upcoming game developed by IceGlobe Studios and made using Blender and Ogre.
-    It is an online, Battle Royal style game with TDM event gamemodes, quick matches, teams of up to 5, and tons of weapons to be designed.
-    At the Start of the game, everyone picks a character very much similar to Apex Legends and League of Legends... maybe we should have the word "legends" in our game title?
-    There are 4 classes, all of which are equally as vital to the team.
+NonTerra is an upcoming game developed by IceGlobe Studios and made using Blender and Ogre. It is an online, Battle Royal style game with TDM event gamemodes, quick matches, teams of up to 5, and tons of weapons to be designed. At the Start of the game, everyone picks a character very much similar to Apex Legends and League of Legends... maybe we should have the word "legends" in our game title? There are 4 classes, all of which are equally as vital to the team.
 
-## classes
+## Classes
 
-First there are RANGERS. Rangers have balanced stats and meant for sniping battles and fighting enemy mounts. They gain a boost with snipers and bows.
+First there are **RANGERS**. Rangers have balanced stats and meant for sniping battles and fighting enemy mounts. They gain a boost with snipers and bows.
 
 ## Ashe
 
